@@ -36,7 +36,7 @@
   - Build 3 production-grade open-source tools
   - Reach 500+ GitHub contributions per quarter
   - Write technical deep-dives consistently
-- ? Fun fact: I enjoy turning repetitive workflows into developer tools.
+- Fun fact: I enjoy turning repetitive workflows into developer tools.
 
 ---
 
@@ -77,9 +77,9 @@
 
 <div align="center">
 
-<img height="190" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=prakashPKG&theme=github_dark" alt="GitHub stats" />
-<img height="190" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=prakashPKG&theme=github_dark" alt="Top languages" />
-<img height="190" src="https://streak-stats.demolab.com?user=prakashPKG&theme=github-dark-blue&hide_border=true" alt="GitHub streak" />
+![GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=prakashPKG&theme=github_dark)
+![Top languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=prakashPKG&theme=github_dark)
+![GitHub streak](https://streak-stats.demolab.com?user=prakashPKG&theme=github-dark-blue&hide_border=true)
 
 </div>
 
@@ -95,9 +95,9 @@
 
 ## Achievements
 
-- ? Built and shipped VS Code extension projects
-- ? Contributed to open-source workflows
-- ? Consistent learning and shipping mindset
+- Built and shipped VS Code extension projects
+- Contributed to open-source workflows
+- Consistent learning and shipping mindset
 
 ---
 
