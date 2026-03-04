@@ -65,13 +65,11 @@
 
 ## ?? Featured Projects
 
-> Replace these with your actual pinned repositories.
-
 | Project | Description | Tech |
 |---|---|---|
 | [Meme Error](https://github.com/prakashPKG/meme-error) | VS Code extension for smart error explanations with memes | TS, VS Code API |
-| [Project 2](https://github.com/prakashPKG/project-2) | Developer productivity app with automation workflows | React, Node.js |
-| [Project 3](https://github.com/prakashPKG/project-3) | API service with authentication and analytics | Node.js, PostgreSQL |
+| [Student Form](https://github.com/prakashPKG/studentform) | Student form management project | HTML, CSS, JavaScript |
+| [PrakashPKG Profile](https://github.com/prakashPKG/prakashPKG) | GitHub profile README and developer branding | Markdown, GitHub Actions |
 
 ---
 
@@ -108,19 +106,9 @@
 
 <p>
   <a href="https://github.com/prakashPKG"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/prakash-kumar-dev/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:prakashpkg@users.noreply.github.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
-
----
-
-## ? Profile README Checklist
-
-- [ ] Replace `your-linkedin` and email link
-- [ ] Update featured project links
-- [ ] Pin your best repositories on GitHub profile
-- [ ] Keep the About/Focus sections updated monthly
-- [ ] Add real achievements and metrics
 
 ---
 
