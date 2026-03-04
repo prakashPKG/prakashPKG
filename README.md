@@ -1,4 +1,4 @@
-# Hi, I'm Prakash ??
+# Hi, I'm Prakash
 
 <!--
   Advanced GitHub Profile README Template
@@ -27,12 +27,12 @@
 
 ---
 
-## ?? About Me
+## About Me
 
-- ?? Currently working on: **VS Code extensions + AI-powered dev tools**
-- ?? Learning: **system design, cloud-native apps, and performance optimization**
-- ?? Ask me about: **JavaScript, TypeScript, Node.js, React, VS Code API**
-- ?? 2026 goals:
+- Currently working on: **VS Code extensions + AI-powered dev tools**
+- Learning: **system design, cloud-native apps, and performance optimization**
+- Ask me about: **JavaScript, TypeScript, Node.js, React, VS Code API**
+- 2026 goals:
   - Build 3 production-grade open-source tools
   - Reach 500+ GitHub contributions per quarter
   - Write technical deep-dives consistently
@@ -40,7 +40,7 @@
 
 ---
 
-## ?? Tech Stack
+## Tech Stack
 
 ### Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
@@ -63,7 +63,7 @@
 
 ---
 
-## ?? Featured Projects
+## Featured Projects
 
 | Project | Description | Tech |
 |---|---|---|
@@ -73,20 +73,19 @@
 
 ---
 
-## ?? GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=prakashPKG&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=prakashPKG&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prakashPKG&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+<img height="190" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=prakashPKG&theme=github_dark" alt="GitHub stats" />
+<img height="190" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=prakashPKG&theme=github_dark" alt="Top languages" />
+<img height="190" src="https://streak-stats.demolab.com?user=prakashPKG&theme=github-dark-blue&hide_border=true" alt="GitHub streak" />
 
 </div>
 
 ---
 
-## ?? Current Focus
+## Current Focus
 
 - Building practical AI tooling for developers
 - Improving DX in editor extensions
@@ -94,7 +93,7 @@
 
 ---
 
-## ?? Achievements
+## Achievements
 
 - ? Built and shipped VS Code extension projects
 - ? Contributed to open-source workflows
@@ -102,7 +101,7 @@
 
 ---
 
-## ?? Connect With Me
+## Connect With Me
 
 <p>
   <a href="https://github.com/prakashPKG"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
